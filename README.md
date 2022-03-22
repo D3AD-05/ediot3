@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dias Valooran
 - 👀 I’m interested in cooding
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning django ,React 
 - 📫 How to reach me daisvlooran@gmail.com
 -  📱 +919605921937
 
