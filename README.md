@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Dias Valooran
-- 👀 I’m interested in cooding
-- 🌱 I’m currently undergoing training in React at Global Infonet Inc.
+- 👀 I’m interested in coding
+- 🪴 I’m currently working as junior Dev in Finobase Global Solution for an ERP software.
+- 🌱 Got my training in React JS at Global Infonet Inc.
 - 📫 How to reach me daisvlooran@gmail.com
--  📱 +919605921937
+- 📱 My phone number is  +919605921937
 
 <!---
 ediot3/ediot3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
